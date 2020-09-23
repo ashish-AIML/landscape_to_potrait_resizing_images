@@ -10,6 +10,6 @@ saving them in same folder and same image name as original one
 ---
 ## License & Copyright
 
-@ Teric-AI Team
+@ Ashish & Team
 
 ***
